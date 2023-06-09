@@ -13,7 +13,7 @@
 ### Projects
 
 [AllergyFree](https://anushmo.wixsite.com/allergyfree)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
