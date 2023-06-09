@@ -1,18 +1,18 @@
-## Portfolio
+## Data Science Portfolio
 
 ### Work Experience
-- Data Scientist | SAP Labs, LLC.
-- Product Manager Intern, MapMyFitness | Under Armour
+- Data Scientist - SAP Labs, LLC.
+- Product Manager Intern, MapMyFitness - Under Armour
 
 ### Education
-- Master of Information and Data Science | University of California, Berkeley School of Information 							      		        
-- B.A., Statistics | University of California, Berkeley 
+- Master of Information and Data Science -  University of California, Berkeley School of Information 							      		        
+- B.A., Statistics -  University of California, Berkeley 
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[AllergyFree](https://anushmo.wixsite.com/allergyfree)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
