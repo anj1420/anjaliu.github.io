@@ -1,8 +1,6 @@
 ## Portfolio
 
-### Education
-
-<p style="color:purple"> Education </p>
+### <p style="color:purple"> Education </p>
 
 ---
 
