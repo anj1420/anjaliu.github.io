@@ -2,7 +2,7 @@
 
 ### Education
 
-<span style="color: red">this is red</span>.
+<p style=="color:blue"> Education </p>
 
 ---
 
