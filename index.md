@@ -2,7 +2,7 @@
 
 ### Education
 
-<p style="color:blue"> Education </p>
+<p style="color:purple"> Education </p>
 
 ---
 
