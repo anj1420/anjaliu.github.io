@@ -22,14 +22,16 @@ AllergyFree is an application that allows users to input a recipe, either manual
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Visualizing the Roles of Age and Gender in Hollywood](https://observablehq.com/@berkeleyvis/film-industry-dashboard-usability-study)
+#### Visualizing the Roles of Age and Gender in Hollywood
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Observable-View%20on%20Observable-blueviolet?logo=Observable)](https://observablehq.com/@berkeleyvis/film-industry-dashboard-usability-study)
 
 
 ---
 #### Mental Health in the Tech Industry
 
-[![](https://img.shields.io/badge/Github-View%20on%20My%20Github-blueviolet?logo=Github)](https://github.com/anj1420/portfolio/tree/main/Mental%20Health%20in%20Tech)
+[![](https://img.shields.io/badge/Github-View%20on%20Github-blueviolet?logo=Github)](https://github.com/anj1420/portfolio/tree/main/Mental%20Health%20in%20Tech)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
