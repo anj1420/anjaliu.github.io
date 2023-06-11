@@ -1,37 +1,35 @@
 ## Data Science Portfolio
 
 ### Work Experience
-- Data Scientist - SAP Labs, LLC.
-- Product Manager Intern, MapMyFitness - Under Armour
+- _Data Scientist_ - **SAP Labs, LLC.**
+- _Product Manager Intern, MapMyFitness_ - **Under Armour**
 
 ### Education
-- Master of Information and Data Science -  University of California, Berkeley School of Information 							      		        
-- B.A., Statistics -  University of California, Berkeley 
+- _Master of Information and Data Science_ -  **University of California, Berkeley School of Information** 							      		        
+- _B.A., Statistics_ -  **University of California, Berkeley**
 
 ---
 
 ### Projects
 
-[AllergyFree](https://anushmo.wixsite.com/allergyfree)
+[AllergyFree: A Recipe for Everyone](https://anushmo.wixsite.com/allergyfree)
 <img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/>
 
+AllergyFree is an application that allows users to input a recipe, either manually or URL, and receive ingredient substitutions in real time based on their allergen criteria. 
+
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[AIsha: Your Very Own Conversational Movie Recommender](https://github.com/anj1420/portfolio/blob/main/AIsha_Final_Paper_Mohan_Unnithan.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Visualizing the Roles of Age and Gender in Hollywood](https://observablehq.com/@berkeleyvis/film-industry-dashboard-usability-study)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
 ---
+[Mental Health in the Tech Industry](https://github.com/anj1420/portfolio/tree/main/Mental%20Health%20in%20Tech)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
