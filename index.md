@@ -17,7 +17,7 @@
 
 AllergyFree is an application that allows users to input a recipe, either manually or URL, and receive ingredient substitutions in real time based on their allergen criteria. 
 
-<img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/> <img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/> 
+<img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/ width='300'> 
 
 
 
