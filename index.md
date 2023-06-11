@@ -24,11 +24,11 @@ AllergyFree is an application that allows users to input a recipe, either manual
 ---
 #### AIsha: Your Very Own Conversational Movie Recommender
 
-[![](https://img.shields.io/badge/Github-View%20on%20Github-blueviolet?logo=Github)](https://github.com/anj1420/portfolio/blob/main/AIsha_Final_Paper_Mohan_Unnithan.pdf)
+[![](https://img.shields.io/badge/Github-View%20Paper%20on%20Github-blueviolet?logo=Github)](https://github.com/anj1420/portfolio/blob/main/AIsha_Final_Paper_Mohan_Unnithan.pdf)
 
 AIsha is an NLP-based chatbot that recommends top films to users based on their personal taste and engages in personal conversation. We used and finetuned a miniature BERT language model to classify intents from user input (i.e "greetings", "small talk", and "recommendation") that resulted in 97% accuracy. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/aisha chatbot pic better.png?raw=true"/>
 
 ---
 #### Visualizing the Roles of Age and Gender in Hollywood
