@@ -5,7 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Have a look at several of the projects I've worked on while in my master's program, highlighting data visualization, machine learning, and natural language processing!
   <br><br>
-  
-remote_theme: pages-themes/minimal@v0.2.0
+linkedin: 
 plugins:
 - jekyll-remote-theme
