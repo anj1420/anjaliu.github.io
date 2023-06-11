@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-[![](https://img.shields.io/badge/LinkedIn-Click%20To%20View%20my%20LinkedIn%20Profile-blue?logo=LinkedIn)](https://www.linkedin.com/in/anjali-unnithan/)
+[![](https://img.shields.io/badge/LinkedIn-View%20my%20LinkedIn%20Profile-blue?logo=LinkedIn)](https://www.linkedin.com/in/anjali-unnithan/)
 
 ## Work Experience
 - _Data Scientist_ - **SAP Labs, LLC.**
