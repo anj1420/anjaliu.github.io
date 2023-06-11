@@ -49,7 +49,7 @@ Gender inequality in Hollywood and the media in general is a long-standing issue
 
 My project team and I analyzed survey data from the Open Sourcing for Mental Health organzation (OSMI) to predict how comfortable an employee would be to discuss mental health with a supervisor. To do so, we evaluated and ran various classification models and looked into several key features, such as employee demographics, mental health history, and employer services. Random Forest performed the best, giving us a 94% accuracy on our test data.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mental health eda.png?raw=true"/>
 
 
 
