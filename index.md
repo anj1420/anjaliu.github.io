@@ -28,7 +28,7 @@ AllergyFree is an application that allows users to input a recipe, either manual
 
 AIsha is an NLP-based chatbot that recommends top films to users based on their personal taste and engages in personal conversation. We used and finetuned a miniature BERT language model to classify intents from user input (i.e "greetings", "small talk", and "recommendation") that resulted in 97% accuracy. 
 
-<img src="images/aisha project pic.png?raw=true" width='200'/> <img src="images/aisha chatbot pic better.png?raw=true" width='500'/>
+<img src="images/aisha project pic.png?raw=true" width='400'/> <img src="images/aisha chatbot pic better.png?raw=true" width='600'/>
 
 ---
 #### Visualizing the Roles of Age and Gender in Hollywood
