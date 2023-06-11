@@ -7,9 +7,9 @@
 ---
 
 ## Education
-- **University of California, Berkeley
--- _Master of Information and Data Science_ 			      		        
--- _B.A., Statistics_ 
+- **University of California, Berkeley**
+- _Master of Information and Data Science_ 			      		        
+- _B.A., Statistics_ 
 
 ---
 
