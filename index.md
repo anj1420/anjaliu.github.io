@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+For full profile: [![](https://img.shields.io/badge/LinkedIn-View%20my%20LinkedIn%20Profile-blue?logo=LinkedIn)](https://www.linkedin.com/in/anjali-unnithan/)
+
 ## Work Experience
 - _Data Scientist_ - **SAP Labs, LLC.**
 - _Product Manager Intern, MapMyFitness_ - **Under Armour**
