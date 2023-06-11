@@ -27,7 +27,7 @@ AllergyFree is an application that allows users to input a recipe, either manual
 
 
 ---
-[Mental Health in the Tech Industry](https://github.com/anj1420/portfolio/tree/main/Mental%20Health%20in%20Tech)
+#### Mental Health in the Tech Industry
 
 [![](https://img.shields.io/badge/Github-View%20on%20My%20Github-blueviolet?logo=Github)](https://github.com/anj1420/portfolio/tree/main/Mental%20Health%20in%20Tech)
 
