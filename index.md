@@ -5,27 +5,37 @@
 - _Product Manager Intern, MapMyFitness_ - **Under Armour**
 
 ### Education
-- _Master of Information and Data Science_ -  **University of California, Berkeley School of Information** 							      		        
-- _B.A., Statistics_ -  **University of California, Berkeley**
+- _Master of Information and Data Science_ -  **UC Berkeley School of Information** 							      		        
+- _B.A., Statistics_ -  **UC Berkeley**
 
 ---
 
 ### Projects
 
-[AllergyFree: A Recipe for Everyone](https://anushmo.wixsite.com/allergyfree)
-<img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/>
+#### AllergyFree: A Recipe for Everyone
+[![](https://img.shields.io/badge/Wix-View%20on%20Wix-blueviolet?logo=Wix)](https://anushmo.wixsite.com/allergyfree)
 
 AllergyFree is an application that allows users to input a recipe, either manually or URL, and receive ingredient substitutions in real time based on their allergen criteria. 
 
+<img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/> <img src="images/Screenshot 2023-06-08 at 10.00.06 PM.png?raw=true"/> 
+
+
+
 ---
-[AIsha: Your Very Own Conversational Movie Recommender](https://github.com/anj1420/portfolio/blob/main/AIsha_Final_Paper_Mohan_Unnithan.pdf)
+#### AIsha: Your Very Own Conversational Movie Recommender
+
+[![](https://img.shields.io/badge/Github-View%20on%20Github-blueviolet?logo=Github)](https://github.com/anj1420/portfolio/blob/main/AIsha_Final_Paper_Mohan_Unnithan.pdf)
+
+AIsha is an NLP-based chatbot that recommends top films to users based on their personal taste and engages in personal conversation. We used and finetuned a miniature BERT language model to classify intents from user input (i.e "greetings", "small talk", and "recommendation") that resulted in 97% accuracy. 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 #### Visualizing the Roles of Age and Gender in Hollywood
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Observable-View%20on%20Observable-blueviolet?logo=Observable)](https://observablehq.com/@berkeleyvis/film-industry-dashboard-usability-study)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
