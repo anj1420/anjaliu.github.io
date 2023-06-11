@@ -8,8 +8,8 @@
 
 ## Education
 - **University of California, Berkeley**
-  - _Master of Information and Data Science_ 			      		        
-  - _B.A., Statistics_ 
+  - _Master of Information and Data Science_'21		      		        
+  - _B.A., Statistics_'20
 
 ---
 
